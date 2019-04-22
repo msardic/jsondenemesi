@@ -1,0 +1,34 @@
+{
+    "weatherWidget": [{
+            "cityId": "1",
+            "cityName": "SKOPJE",
+            "partsOfDay": "NIGHT",
+            "color": "BLUE",
+            "temperature": 3,
+            "temperatureType": "celcius",
+            "windSpeed": 15,
+            "windSpeed": "km/h"
+        },
+        {
+            "cityId": "2",
+            "cityName": "HELSINKI",
+            "partsOfDay": "MORNING",
+            "color": "BLUE",
+            "temperature": 3,
+            "temperatureType": "celcius",
+            "windSpeed": 12,
+            "windSpeed": "km/h"
+        },
+        {
+            "cityId": "3",
+            "cityName": "BERLIN",
+            "partsOfDay": "NIGHT",
+            "color": "BLUE",
+            "temperature": 3,
+            "temperatureType": "celcius",
+            "windSpeed": 8,
+            "windSpeed": "km/h"
+        }
+    ]
+
+}
