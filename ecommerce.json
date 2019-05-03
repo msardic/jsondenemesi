@@ -2,10 +2,10 @@
     "ecommerce": [{
             "productID": "1",
             "productName": "Men's Black T-shirt",
-            "productImg": [{
-                    "img": "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4283790/3/8681825814649_1_org_zoom.jpg",         
-                    "img": "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4283790/3/8681825814649_2_org_zoom.jpg"
-                }
+            "productImg": [
+                    "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4283790/3/8681825814649_1_org_zoom.jpg",         
+                    "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4283790/3/8681825814649_2_org_zoom.jpg"
+                
             ],
             "productprice": 19.99,
             "currency": "usd"
@@ -13,20 +13,20 @@
         {
             "productID": "2",
             "productName": "Men's White T-shirt",
-            "productImg": [{
-                    "img": "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/166876-2/8699486790004_k_org_zoom.jpg",
-                    "img": "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/165505-1/8699486790004_1_org_zoom.jpg"
-                }
+            "productImg": [
+                    "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/166876-2/8699486790004_k_org_zoom.jpg",
+                    "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/165505-1/8699486790004_1_org_zoom.jpg"
+                
             ],
             "productprice": 9.99,
             "currency": "usd"
         }, {
             "productID": "3",
             "productName": "Men's Green T-shirt",
-            "productImg": [{
-                    "img": "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/oa/69/3991831/1/8680651436391_1_org_zoom.jpg",
-                    "img": "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/oa/69/3991831/1/8680651436391_3_org_zoom.jpg"
-                }
+            "productImg": [
+                    "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/oa/69/3991831/1/8680651436391_1_org_zoom.jpg",
+                    "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/oa/69/3991831/1/8680651436391_3_org_zoom.jpg"
+                
             ],
             "productprice": 29.99,
             "currency": "usd"
@@ -34,10 +34,10 @@
         {
             "productID": "4",
             "productName": "Men's Casual T-shirt",
-            "productImg": [{
-                    "img": "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4433030/4/8681825223878_1_org_zoom.jpg",
-                    "img": "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4433030/4/8681825223878_2_org_zoom.jpg"
-                }
+            "productImg": [
+                    "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4433030/4/8681825223878_1_org_zoom.jpg",
+                    "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4433030/4/8681825223878_2_org_zoom.jpg"
+                
             ],
             "productprice": 10.99,
             "currency": "usd"
