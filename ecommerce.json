@@ -7,8 +7,8 @@
                     "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4283790/3/8681825814649_2_org_zoom.jpg"
                 
             ],
-            "productprice": 19.99,
-            "currency": "usd"
+            "productPrice": 19.99,
+            "currency": "$"
         },
         {
             "productID": "2",
@@ -19,7 +19,7 @@
                 
             ],
             "productprice": 9.99,
-            "currency": "usd"
+            "currency": "$"
         }, {
             "productID": "3",
             "productName": "Men's Green T-shirt",
@@ -28,8 +28,8 @@
                     "https://img-trendyol.mncdn.com/mnresize/1200/1800//Assets/ProductImages/oa/69/3991831/1/8680651436391_3_org_zoom.jpg"
                 
             ],
-            "productprice": 29.99,
-            "currency": "usd"
+            "productPrice": 29.99,
+            "currency": "$"
         },
         {
             "productID": "4",
@@ -39,8 +39,8 @@
                     "https://img-trendyol.mncdn.com/mnresize/415/622//Assets/ProductImages/oa/69/4433030/4/8681825223878_2_org_zoom.jpg"
                 
             ],
-            "productprice": 10.99,
-            "currency": "usd"
+            "productPrice": 10.99,
+            "currency": "$"
         }
     ]
 
