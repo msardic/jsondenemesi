@@ -1,35 +1,32 @@
-{
-    "priceCard": [{
-            "cardId": "1",
-            "cardName": "START-UP",
-            "price": 120,
-            "currency": "usd",
-            "userLimit": 10,
-            "storageLimit": 2,
-            "storageLength": "GB",
-            "color": "red"
-        },
-        {
-            "cardId": "2",
-            "cardName": "BUSINESS",
-            "price": 250,
-            "currency": "usd",
-            "userLimit": 100,
-            "storageLimit": 10,
-            "storageLength": "GB",
-            "color": "blue"
-        },
-        {
-            "cardId": "3",
-            "cardName": "PRO",
-            "price": 450,
-            "currency": "usd",
-            "userLimit": 300,
-            "storageLimit": 20,
-            "storageLength": "GB",
-            "color": "green"
-        }
-    ]
-
-
-}
+[
+    {
+        "cardId": "1",
+        "cardName": "START-UP",
+        "price": 120,
+        "currency": "usd",
+        "userLimit": 10,
+        "storageLimit": 2,
+        "storageLength": "GB",
+        "color": "red"
+    },
+    {
+        "cardId": "2",
+        "cardName": "BUSINESS",
+        "price": 250,
+        "currency": "usd",
+        "userLimit": 100,
+        "storageLimit": 10,
+        "storageLength": "GB",
+        "color": "blue"
+    },
+    {
+        "cardId": "3",
+        "cardName": "PRO",
+        "price": 450,
+        "currency": "usd",
+        "userLimit": 300,
+        "storageLimit": 20,
+        "storageLength": "GB",
+        "color": "green"
+    }
+]
