@@ -7,7 +7,7 @@
         "userLimit": 10,
         "storageLimit": 2,
         "storageLength": "GB",
-        "color": "red"
+        "color": "Red"
     },
     {
         "cardId": "2",
@@ -17,7 +17,7 @@
         "userLimit": 100,
         "storageLimit": 10,
         "storageLength": "GB",
-        "color": "blue"
+        "color": "Blue"
     },
     {
         "cardId": "3",
@@ -27,6 +27,6 @@
         "userLimit": 300,
         "storageLimit": 20,
         "storageLength": "GB",
-        "color": "green"
+        "color": "Green"
     }
 ]
