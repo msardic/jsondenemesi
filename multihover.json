@@ -1,19 +1,19 @@
-{
-    "multiHover": [{
-            "id": "1",
-            "img": "https://i.hizliresim.com/16OWMj.jpg",
-            "name": "WILLIAMSON"
-        },
-        {
-            "id": "1",
-            "img": "https://i.hizliresim.com/nQ06LV.jpg",
-            "name": "GERALD"
-        },
-        {
-            "id": "1",
-            "img": "https://i.hizliresim.com/V9WnXZ.jpg",
-            "name": "KRISTIANA"
-        }
-    ]
+[
+    {
+        "id": "1",
+        "img": "https://i.hizliresim.com/16OWMj.jpg",
+        "name": "WILLIAMSON"
+    },
 
-}
+    {
+        "id": "1",
+        "img": "https://i.hizliresim.com/nQ06LV.jpg",
+        "name": "GERALD"
+    },
+    
+    {
+        "id": "1",
+        "img": "https://i.hizliresim.com/V9WnXZ.jpg",
+        "name": "KRISTIANA"
+    }
+]
